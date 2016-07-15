@@ -1,0 +1,59 @@
+body{
+	margin-bottom: 80px;
+}
+.page-header{
+	margin-top: 0;
+}
+.panel-body{
+	padding-top: 0;
+}
+.featureimg{
+	margin-bottom: 15px;
+}
+.jumbotron{
+	font-family: Rockwell;
+	color: Black;
+	background-image: url(http://blog.2ji-iro.jp/wp-content/uploads/2015/12/20151202_danganronpa03.png);
+}
+.navbar-brand{
+	font-family: Trebuchet MS;
+	font-weight: bold;
+	font-size: 25px;
+	color: black;
+}
+.index-text{
+	color: white;
+	background-color: black;
+}
+.gk{
+	font-family: Book Antiqua;
+	font-weight: bold;
+	font-size: 18px;
+}
+.gk1{
+	font-family: Book Antiqua;
+	font-weight: bold;
+}
+.gk2{
+	font-family: Book Antiqua;
+	font-weight: bold;
+	font-size: 21px;
+	color: black;
+}
+.ztd{
+	font-family: papyrus;
+	font-weight: bold;
+}
+.ztd2{
+	font-family: papyrus;
+	font-weight: bold;
+}
+.navbar{
+	background-color: #1874CD;
+}
+.navbar navbar-inverse navbar-static-top{
+	color: black;
+}
+.navbar-brand:visited{
+	color: black;
+}
